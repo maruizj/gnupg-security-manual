@@ -93,6 +93,10 @@
 
 Project contains an easy way to deal with sharing passwords through devices and teams.
 
+At the momment result pdf from draw are stored in:
+
+https://capgemini-my.sharepoint.com/:f:/p/miguel-angel_ruiz-jara/EgLTrax7gcVMnXKgXsvqHYIBKHPdcnVYnRzn5xEY6tISaw?e=jcf9zK
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -151,6 +155,8 @@ IMPORTANT! Remember always to think what Workspace(workdir) you giving to the co
 
 - [x] Add Examples for phone devices
 - [ ] Add Github repository for password store
+- [ ] Add More colors, more images
+- [ ] Add More info specifc about sharing storages
 
 
 See the [open issues](https://github.com/CG-CIS/tools-container-creator/issues) for a full list of proposed features (and known issues).
