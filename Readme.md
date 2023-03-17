@@ -37,14 +37,7 @@
   <h3 align="center">Password Security with GnuPG</h3>
 
   <p align="center">
-    Project intends to instruct about the use of gnupg for:
-
-  1. Managers
-  2. Delivery Managers
-  3. Developers
-  4. Devops
-  5. Corporate Employees in general
-  
+    Project intends to instruct about the use of gnupg for: Managers, Delivery Managers, Developers , Devops specially but Corporate Employees in general also
     <br />
     <a href="https://www.capgemini.com/"><strong>Capgemini's Ownership »</strong></a>
     <br />
