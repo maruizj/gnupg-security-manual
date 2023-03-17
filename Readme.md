@@ -38,20 +38,22 @@
 
   <p align="center">
     Project intends to instruct about the use of gnupg for:
-    1. Managers
-    2. Delivery Managers
-    3. Developers
-    4. Devops
-    5. Corporate Employees in general  
+
+  1. Managers
+  2. Delivery Managers
+  3. Developers
+  4. Devops
+  5. Corporate Employees in general
+  
     <br />
     <a href="https://www.capgemini.com/"><strong>Capgemini's Ownership »</strong></a>
     <br />
     <br />
     <a href="https://github.com/maruizj">Ask Demo</a>
     ·
-    <a href="https://github.com/CG-CIS/tools-container-creator/issues">Report Bug</a>
+    <a href="https://github.com/maruizj/gnupg-security-manual/issues">Report Bug</a>
     ·
-    <a href="https://github.com/CG-CIS/tools-container-creator/wiki">Wiki</a>
+    <a href="https://github.com/maruizj/gnupg-security-manual/wiki">Wiki</a>
   </p>
 </div>
 
@@ -88,14 +90,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Github][product-screenshot]](https://github.com/CG-CIS/tools-container-creator/blob/master/README.md)
+[![Github][product-screenshot]](https://github.com/maruizj/gnupg-security-manual/blob/main/README.md)
 
 
 Project contains an easy way to deal with sharing passwords through devices and teams.
 
-At the momment result pdf from draw are stored in:
+At the momment result pdf from draw.io is stored in: 
 
-https://capgemini-my.sharepoint.com/:f:/p/miguel-angel_ruiz-jara/EgLTrax7gcVMnXKgXsvqHYIBKHPdcnVYnRzn5xEY6tISaw?e=jcf9zK
+https://capgemini-my.sharepoint.com/:b:/r/personal/miguel-angel_ruiz-jara_capgemini_com/Documents/Documents/SharedFolder/Security%20Basics/Security-with-GnuPG.drawio-v1.0.0.pdf?csf=1&web=1&e=5vSMLO
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,11 +132,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up this project. 
+Below is an example of how you can instruct your audience on installing and setting up this project. 
 
 1. Clone this repo
    ```sh
-   git clone https://github.com/CG-CIS/tools-container-creator.git
+   git clone https://github.com/maruizj/gnupg-security-manual.git
    ```
 
 
@@ -147,19 +149,21 @@ _Below is an example of how you can instruct your audience on installing and set
 ## Usage
 
 
-IMPORTANT! Remember always to think what Workspace(workdir) you giving to the container . in this case folder is called Workspace/example-dir in you $HOME directory defined in varfile.tfvars 
+Clone de project and you are ready to go.
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
 - [x] Add Examples for phone devices
+- [ ] Add Specific example of encrypt and decrypt messages
 - [ ] Add Github repository for password store
+- [ ] Add OS version specific for installation and procedures
 - [ ] Add More colors, more images
 - [ ] Add More info specifc about sharing storages
 
 
-See the [open issues](https://github.com/CG-CIS/tools-container-creator/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/maruizj/gnupg-security-manual/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,7 +201,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/mikzuit) - email@example.com
 
-Project Link: [https://github.com/CG-CIS/tools-container-creator](https://github.com/CG-CIS/tools-container-creator)
+Project Link: [https://github.com/maruizj/gnupg-security-manual](https://github.com/maruizj/gnupg-security-manual)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
